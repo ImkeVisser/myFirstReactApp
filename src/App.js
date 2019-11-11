@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          PADADADAPPLE Tuut Toet tuut.
         </p>
         <a
           className="App-link"
@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Ananas or Pineapple?
+
         </a>
       </header>
     </div>
